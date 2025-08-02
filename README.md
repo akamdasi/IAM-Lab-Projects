@@ -1,4 +1,3 @@
-
 # 🛡️ 100 Hands-On IAM Projects – Portfolio by Akam Dasi
 
 Welcome to my Identity and Access Management (IAM) Lab Portfolio — a collection of **100 real-world, hands-on projects** completed as part of a 3-month intensive training plan to prepare for **Senior IAM Engineer** and **IAM Architect** roles.
